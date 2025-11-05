@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 Rei here.
 
 <!--
 **kawaiirei0/kawaiirei0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 📝 Use Go / PHP / C# / Rust backend, Vue / Nuxt / Fresh for frontend
+
+[Blog (zh)](https://re.iqwq.com)
+[About (zh)](https://re.iqwq.com/about)
