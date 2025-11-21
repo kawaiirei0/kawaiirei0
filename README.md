@@ -15,7 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 📝 Use Go / PHP / C# / Rust backend, Vue / Nuxt / Fresh for frontend
+- 📝 Use Go / PHP backend, Vue / Nuxt / Fresh for frontend
 
 [Blog (zh)](https://re.iqwq.com)
 [About (zh)](https://re.iqwq.com/about)
+[BiliBili](https://space.bilibili.com/403597865)
